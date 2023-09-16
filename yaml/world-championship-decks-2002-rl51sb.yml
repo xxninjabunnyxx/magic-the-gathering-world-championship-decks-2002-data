@@ -1,0 +1,107 @@
+---
+object: card
+id: 66267d8b-f763-4309-b30d-0d32ee91945c
+oracle_id: 76347258-71d5-4874-adde-ff7aa932b808
+multiverse_ids: []
+tcgplayer_id: 173840
+cardmarket_id: 249437
+name: Disrupt
+lang: en
+released_at: '2002-08-14'
+uri: https://api.scryfall.com/cards/66267d8b-f763-4309-b30d-0d32ee91945c
+scryfall_uri: https://scryfall.com/card/wc02/rl51sb/disrupt?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/6/66267d8b-f763-4309-b30d-0d32ee91945c.jpg?1561895823
+  normal: https://cards.scryfall.io/normal/front/6/6/66267d8b-f763-4309-b30d-0d32ee91945c.jpg?1561895823
+  large: https://cards.scryfall.io/large/front/6/6/66267d8b-f763-4309-b30d-0d32ee91945c.jpg?1561895823
+  png: https://cards.scryfall.io/png/front/6/6/66267d8b-f763-4309-b30d-0d32ee91945c.png?1561895823
+  art_crop: https://cards.scryfall.io/art_crop/front/6/6/66267d8b-f763-4309-b30d-0d32ee91945c.jpg?1561895823
+  border_crop: https://cards.scryfall.io/border_crop/front/6/6/66267d8b-f763-4309-b30d-0d32ee91945c.jpg?1561895823
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: |-
+  Counter target instant or sorcery spell unless its controller pays {1}.
+  Draw a card.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+set: wc02
+set_name: World Championship Decks 2002
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/66267d8b-f763-4309-b30d-0d32ee91945c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A76347258-71d5-4874-adde-ff7aa932b808&unique=prints
+collector_number: rl51sb
+digital: false
+rarity: uncommon
+flavor_text: Teferi wanted no part of Urza's battle plans, but both agreed the Phyrexian
+  portal must be closed.
+card_back_id: 6bcbb89c-0af2-4510-8484-e59cc0042b09
+artist: Paolo Parente
+artist_ids:
+- d48dd097-720d-476a-8722-6a02854ae28b
+illustration_id: a7d30b52-7cb7-418c-badb-765d75e3118c
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 8529
+prices:
+  usd: '0.45'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.14'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Disrupt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Disrupt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Disrupt
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/173840?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Disrupt&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Disrupt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

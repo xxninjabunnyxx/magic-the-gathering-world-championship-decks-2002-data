@@ -1,0 +1,15 @@
+---
+object: set
+id: 04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+code: wc02
+name: World Championship Decks 2002
+uri: https://api.scryfall.com/sets/04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+scryfall_uri: https://scryfall.com/sets/wc02
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Awc02&unique=prints
+released_at: '2002-08-14'
+set_type: memorabilia
+card_count: 153
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800

@@ -1,0 +1,109 @@
+---
+object: card
+id: ff9d13ab-f730-46f9-8164-d465e4245e1f
+oracle_id: 857febd9-cdd7-4f8e-a852-d88084b0cfbc
+multiverse_ids: []
+tcgplayer_id: 173834
+cardmarket_id: 249368
+name: Underground River
+lang: en
+released_at: '2002-08-14'
+uri: https://api.scryfall.com/cards/ff9d13ab-f730-46f9-8164-d465e4245e1f
+scryfall_uri: https://scryfall.com/card/wc02/cr350/underground-river?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/f/ff9d13ab-f730-46f9-8164-d465e4245e1f.jpg?1561897022
+  normal: https://cards.scryfall.io/normal/front/f/f/ff9d13ab-f730-46f9-8164-d465e4245e1f.jpg?1561897022
+  large: https://cards.scryfall.io/large/front/f/f/ff9d13ab-f730-46f9-8164-d465e4245e1f.jpg?1561897022
+  png: https://cards.scryfall.io/png/front/f/f/ff9d13ab-f730-46f9-8164-d465e4245e1f.png?1561897022
+  art_crop: https://cards.scryfall.io/art_crop/front/f/f/ff9d13ab-f730-46f9-8164-d465e4245e1f.jpg?1561897022
+  border_crop: https://cards.scryfall.io/border_crop/front/f/f/ff9d13ab-f730-46f9-8164-d465e4245e1f.jpg?1561897022
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {T}: Add {U} or {B}. Underground River deals 1 damage to you.
+colors: []
+color_identity:
+- B
+- U
+keywords: []
+produced_mana:
+- B
+- C
+- U
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+set: wc02
+set_name: World Championship Decks 2002
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ff9d13ab-f730-46f9-8164-d465e4245e1f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A857febd9-cdd7-4f8e-a852-d88084b0cfbc&unique=prints
+collector_number: cr350
+digital: false
+rarity: rare
+card_back_id: 6bcbb89c-0af2-4510-8484-e59cc0042b09
+artist: Andrew Goldhawk
+artist_ids:
+- f4a65a04-9e2e-4541-8d0e-f34e9517f092
+illustration_id: e1bc27df-bda8-431f-9a9b-ab48eb9e5e71
+border_color: gold
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 290
+prices:
+  usd: '2.57'
+  usd_foil: 
+  usd_etched: 
+  eur: '2.50'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Underground+River&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Underground+River&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Underground+River
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/173834?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Underground+River&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Underground+River&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

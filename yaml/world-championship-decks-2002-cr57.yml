@@ -1,0 +1,109 @@
+---
+object: card
+id: 98738c04-27d3-4eab-b0da-cac6f79c4cd0
+oracle_id: 7975cb9d-d37e-44f8-9614-86d2ad453c35
+multiverse_ids: []
+tcgplayer_id: 173495
+cardmarket_id: 249354
+name: Chainer's Edict
+lang: en
+released_at: '2002-08-14'
+uri: https://api.scryfall.com/cards/98738c04-27d3-4eab-b0da-cac6f79c4cd0
+scryfall_uri: https://scryfall.com/card/wc02/cr57/chainers-edict?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/8/98738c04-27d3-4eab-b0da-cac6f79c4cd0.jpg?1561895855
+  normal: https://cards.scryfall.io/normal/front/9/8/98738c04-27d3-4eab-b0da-cac6f79c4cd0.jpg?1561895855
+  large: https://cards.scryfall.io/large/front/9/8/98738c04-27d3-4eab-b0da-cac6f79c4cd0.jpg?1561895855
+  png: https://cards.scryfall.io/png/front/9/8/98738c04-27d3-4eab-b0da-cac6f79c4cd0.png?1561895855
+  art_crop: https://cards.scryfall.io/art_crop/front/9/8/98738c04-27d3-4eab-b0da-cac6f79c4cd0.jpg?1561895855
+  border_crop: https://cards.scryfall.io/border_crop/front/9/8/98738c04-27d3-4eab-b0da-cac6f79c4cd0.jpg?1561895855
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Target player sacrifices a creature.
+  Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flashback
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+set: wc02
+set_name: World Championship Decks 2002
+set_type: memorabilia
+set_uri: https://api.scryfall.com/sets/04dfc9bb-ccaa-436c-b79a-925b2ad9bdbe
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awc02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wc02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/98738c04-27d3-4eab-b0da-cac6f79c4cd0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7975cb9d-d37e-44f8-9614-86d2ad453c35&unique=prints
+collector_number: cr57
+digital: false
+rarity: uncommon
+flavor_text: The pits have their own form of mercy.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ben Thompson
+artist_ids:
+- f3116c88-57f4-4fd1-95f3-cfd163977661
+illustration_id: aa9a6965-65a9-4a6c-a76b-26ae53d5a8ca
+border_color: gold
+frame: '1997'
+frame_effects:
+- tombstone
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 11091
+prices:
+  usd: '3.58'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.63'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chainer%27s+Edict&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chainer%27s+Edict&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chainer%27s+Edict
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/173495?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chainer%27s+Edict&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chainer%27s+Edict&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
